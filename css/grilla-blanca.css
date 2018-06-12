@@ -1,0 +1,25 @@
+
+/*  //////////////////////////////////////////////////
+
+para personalizar el color de fondo hay que 
+reemplazar los valores de la propiedad "background-color".
+#000000 equivale a negro
+#ffffff equivale a blanco
+
+//////////////////////////////////////////////////  */
+
+body{
+background-color: #ffffff;
+text-align:center !important;
+}
+
+/* -------------------------------------------------- */
+div{border:0px !important;}
+
+[class*="col-"]{background-color: transparent;}
+
+.row{margin-bottom:0px !important;}
+
+
+.img-responsive{display: inline;}
+img{margin:0px !important;}

@@ -1,0 +1,27 @@
+------------------------------------------------------------
+RECUERDE:
+------------------------------------------------------------
+
+•) Para cambiar el color de fondo o modificar otras propiedades, entre a la carpeta "css" y el archivo a editar es "grilla-blanca.css" o "grilla-negra.css", dependiendo cual haya elegido.
+
+•) En HTML todas las etiquetas se abren y se cierran:
+<div> abre un div
+</div> lo cierra
+El elemento <img> se "autocierra" con la barrá cruzada al final.
+
+•) Los GIF se cargan en la carpeta "imagenes" (sin acento) y para que se vean en su grilla tiene que editar el atributo "source" (fuente ú origen en inglés) para indicar el archivo, ejemplo:
+
+<img src="imagenes/aca-pongo-mi-gif-animado.gif" class="img-responsive" />
+
+•) NO ELIMINAR el atributo "class=img-responsive" del elemento <img> en html.
+
+•) Para cambiar la pista de audio, primero tiene que copiar su archivo mp3 en la carpeta "audio". Después, cambiár en el html (línea 39) el nombre del archivo de audio (snow.mp3) por el suyo.
+
+•) Ignore el resto de las carpetas y archivos pero no los borre, son necesarios para el funcionamiento su grilla.
+
+•) Recomendamos probar su grilla html en google chrome o mozilla firefox.
+
+------------------------------------------------------------
+
+
+
