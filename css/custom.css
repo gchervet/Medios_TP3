@@ -35,3 +35,34 @@ body{
 .instagram-item > img{
     width: 100%;
 }
+
+.separator{
+    height: 1730px;
+}
+
+.gif-008-perfil{
+    position: absolute;
+}
+
+.gif-009-gota{    
+    position: absolute;
+    z-index: 13;
+    margin-top: 525px;
+    margin-left: 314px;
+}
+
+.gif-010-charco{
+    position: relative;
+    z-index: 15;
+    margin-left: -1%;
+}
+
+.gif-011-plato-y-balanza{
+    position: absolute;
+    margin-top: -54%;
+    margin-left: -22.8%;
+}
+
+.gif-012_texto{
+    margin-top: 200px;
+}
